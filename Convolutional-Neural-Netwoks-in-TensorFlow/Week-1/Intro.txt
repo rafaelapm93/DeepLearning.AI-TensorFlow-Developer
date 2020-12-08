@@ -1,0 +1,1 @@
+Week number 1 of the second course of the DeepLearning.AI-TensorFlow-Developer specialization
